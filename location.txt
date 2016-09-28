@@ -1,8 +1,8 @@
-www.tvsticks.co.uk/uviewapp/builds/sof.zip
-www.tvsticks.co.uk/uviewapp/builds/avs.zip
-www.tvsticks.co.uk/uviewapp/builds/ParaFamily.zip
-www.tvsticks.co.uk/uviewapp/builds/ParaAdult.zip
-www.tvsticks.co.uk/uviewapp/builds/Beast.zip
+http://www.tvsticks.co.uk/uviewapp/builds/sof.zip
+http://www.tvsticks.co.uk/uviewapp/builds/avs.zip
+http://www.tvsticks.co.uk/uviewapp/builds/ParaFamily.zip
+http://www.tvsticks.co.uk/uviewapp/builds/ParaAdult.zip
+http://www.tvsticks.co.uk/uviewapp/builds/Beast.zip
 www.aerialview.tv/app/lodi/classic/update.zip
 www.aerialview.tv/app/lodi/classic/update.zip
 www.aerialview.tv/app/lodi/classic/update.zip
