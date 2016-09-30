@@ -5,6 +5,6 @@ http://www.tvsticks.co.uk/uviewapp/builds/ParaAdult.zip
 http://www.tvsticks.co.uk/uviewapp/builds/Beast.zip
 http://builds.kodiuk.tv/builds/Nemesis/backup.zip
 http://www.tvsticks.co.uk/uviewapp/builds/pulse.zip
-www.aerialview.tv/app/lodi/classic/update.zip
+http://kodibuilds.srve.io/hyperwizardna16.zip
 www.aerialview.tv/app/lodi/classic/update.zip
 www.aerialview.tv/app/lodi/classic/update.zip
