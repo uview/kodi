@@ -1,10 +1,10 @@
-http://www.aerialview.tv/uviewpro/builds/sof.zip
-http://www.aerialview.tv/uviewpro/builds/avs.zip
 http://www.aerialview.tv/uviewpro/builds/ParaFamily.zip
 http://www.aerialview.tv/uviewpro/builds/ParaAdult.zip
+http://www.aerialview.tv/uviewpro/builds/sof.zip
+http://www.aerialview.tv/uviewpro/builds/avs.zip
+http://www.aerialview.tv/app/lodi/classic/classic.zip
 http://www.aerialview.tv/uviewpro/builds/Beast.zip
+http://www.aerialview.tv/uviewpro/builds/SpinzTV.zip
 http://www.aerialview.tv/uviewpro/builds/nem.zip
 http://www.aerialview.tv/uviewpro/builds/pulse.zip
-http://www.aerialview.tv/uviewpro/builds/SpinzTV.zip
-http://www.aerialview.tv/app/lodi/classic/classic.zip
 http://www.aerialview.tv/app/lodi/sport/sport.zip
